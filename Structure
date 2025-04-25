@@ -1,0 +1,5 @@
+/Hyperparameter-Optimization
+    ├── data/                # Example dataset (if included)
+    ├── notebooks/           # Jupyter Notebook files
+    ├── src/                 # Python scripts for tuning
+    ├── README.md            # Documentation (You're reading this!)
